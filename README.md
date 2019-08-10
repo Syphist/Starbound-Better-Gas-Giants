@@ -1,1 +1,2 @@
 # Starbound Better Gas Giants
+I am open sourcing this for DRM free installs and for people who want to make a version for other mods like Frackin' Universe. You have my permission to do so. (Even though the license allows you to do this anyways)

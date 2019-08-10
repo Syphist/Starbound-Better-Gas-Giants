@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "tags" : "Planets and Environments",
+  "author" : "Syphist",
+  "description" : "This is a simple mod that increases the satellite spawn chance on Gas Giants to 90% as well as making them appear bigger in the sky to be a tad bit more realistic",
+  "name" : "BetterGasGiants",
+  "friendlyName" : "Better Gas Giants",
+  "steamContentId" : "1771590965",
+  "link" : "steam://url/CommunityFilePage/1771590965"
+}

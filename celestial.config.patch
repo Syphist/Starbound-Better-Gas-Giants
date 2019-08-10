@@ -1,0 +1,25 @@
+[
+  {
+    "op": "replace",
+	"path": "/planetaryTypes/GasGiant/satelliteProbability",
+	"value": 0.9
+  },
+  {
+    "op": "replace",
+	"path": "/planetaryTypes/GasGiant/variationParameters",
+	"value": [
+        {
+          "imageScale" : 0.36,
+          "smallImageScale" : 0.5
+        },
+        {
+          "imageScale" : 0.40,
+          "smallImageScale" : 0.5
+        },
+        {
+          "imageScale" : 0.44,
+          "smallImageScale" : 0.5
+        }
+      ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name" : "MoreSatellites",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Syphist",
+    "version" : "1.0",
+    "description" : "test pls ignore"
+  }
+}
